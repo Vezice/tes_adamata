@@ -1,7 +1,10 @@
 # tes_adamata
 Trial for Adamata ML Engineering Internship
+
 TrashNet Dataset: https://huggingface.co/datasets/garythung/trashnet
+
 EfficientNet B4: https://pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b4.html
+
 Jupyter Notebook: https://colab.research.google.com/drive/15VcOcZDbgJe1KFCgQOdHgu_aqOLP0kVs?usp=sharing
 
 HuggingFace Model: https://huggingface.co/Alfiano07/tes_adamata_trashnet/tree/main
